@@ -16,7 +16,7 @@ here are mockup examples of the idea:
 
 The main reason why I'm planning on a fork instead of an addon is because:
 
-- More freedom to extend and include additional tweaks to make B3T2
+- More freedom to extend and include additional tweaks to make B3T2 better
 - Remove unwanted content to reduce project size
 - (possible) rework on the .blend system
 - additional programming languages besides python may or may not be included
@@ -25,8 +25,8 @@ The main reason why I'm planning on a fork instead of an addon is because:
 ## What are planned features?
 
 - (100%) Digital 2D renderer
-- (100%) 2D format support
-- (70%) convert cartoon character/asthetic -> blender model/asthetic config (useful for fan-projects)
+- (100%) 2D format import support
+- (70%) convert cartoon character/asthetic images -> blender model/asthetic config (useful for fan-projects)
 - (70%) better AI voice (also useful for fan-projects)
 - (50%) revamped layout
 - (20%) new project format exclusive to B3T2
